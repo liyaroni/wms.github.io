@@ -1,0 +1,110 @@
+body{
+background:#FFFFFF;
+}
+.Login{
+	font-family: Verdana;
+	font-size:9pt;
+	background-color:#FFF;
+	border:outset;
+	color:red;
+	border-color:#005221;
+}
+
+.table{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFCC;
+	font-size:8pt;
+	color: red;
+	font-size:12px;
+	border-color:red;
+	border: inherit;
+}
+
+.notice{
+	
+	font-size:10pt;
+	background-color: #006600;
+	color:#fff;
+	border-color:red;
+	font: bold 13px Tahoma;
+}
+.menu{
+	background-color: #CCFFCC;
+	color: red;
+	border-color:#FFFFCC;
+	font: bold 12px Tahoma;
+}
+
+.report{
+	font-size:10pt;
+	color:#333366;
+	border-color:#00CCFF;
+	font:11px Tahoma;
+}
+
+.menuback{
+	color: red;
+	font: 11pt Tahoma;
+    
+}
+.button{
+	background:red;
+	font-size:13px;
+	font:Verdana;
+	color: #CCFF99;
+	width:65pt;
+	font-weight:bolder;
+}
+
+.footer{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:red;
+	}
+	
+.entry{
+	font-family: Verdana;
+	font-size:9pt;
+	background-color: #FFFFCC;
+	border:outset;
+	color:red;
+	border-color:red;
+}
+
+#workCodeTree{
+	font-family: Verdana;
+	font-size: 10pt;
+    
+}
+a{
+	color: red;
+	text-decoration: none;
+	font-family: Verdana;
+	font-size:10pt;
+	font-weight: lighter;
+}
+a:hover{
+	color: red;
+	font-family: Verdana;
+	font-size:10pt;
+}
+a:active{
+	color: red;
+	font-family: Verdana;
+	font-size:10pt;
+}
+
+
+font{
+		font:Verdana;
+		font-size:11px;
+	}
+body {
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+table{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:13px;
+	
+}	
